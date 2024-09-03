@@ -1,0 +1,15 @@
+C:\repos\upc\upc-pre-202402-si730-wx53\OOPSample\OOPSample\bin\Debug\net8.0\OOPSample.exe
+C:\repos\upc\upc-pre-202402-si730-wx53\OOPSample\OOPSample\bin\Debug\net8.0\OOPSample.deps.json
+C:\repos\upc\upc-pre-202402-si730-wx53\OOPSample\OOPSample\bin\Debug\net8.0\OOPSample.runtimeconfig.json
+C:\repos\upc\upc-pre-202402-si730-wx53\OOPSample\OOPSample\bin\Debug\net8.0\OOPSample.dll
+C:\repos\upc\upc-pre-202402-si730-wx53\OOPSample\OOPSample\bin\Debug\net8.0\OOPSample.pdb
+C:\repos\upc\upc-pre-202402-si730-wx53\OOPSample\OOPSample\obj\Debug\net8.0\OOPSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\upc\upc-pre-202402-si730-wx53\OOPSample\OOPSample\obj\Debug\net8.0\OOPSample.AssemblyInfoInputs.cache
+C:\repos\upc\upc-pre-202402-si730-wx53\OOPSample\OOPSample\obj\Debug\net8.0\OOPSample.AssemblyInfo.cs
+C:\repos\upc\upc-pre-202402-si730-wx53\OOPSample\OOPSample\obj\Debug\net8.0\OOPSample.csproj.CoreCompileInputs.cache
+C:\repos\upc\upc-pre-202402-si730-wx53\OOPSample\OOPSample\obj\Debug\net8.0\OOPSample.sourcelink.json
+C:\repos\upc\upc-pre-202402-si730-wx53\OOPSample\OOPSample\obj\Debug\net8.0\OOPSample.dll
+C:\repos\upc\upc-pre-202402-si730-wx53\OOPSample\OOPSample\obj\Debug\net8.0\refint\OOPSample.dll
+C:\repos\upc\upc-pre-202402-si730-wx53\OOPSample\OOPSample\obj\Debug\net8.0\OOPSample.pdb
+C:\repos\upc\upc-pre-202402-si730-wx53\OOPSample\OOPSample\obj\Debug\net8.0\OOPSample.genruntimeconfig.cache
+C:\repos\upc\upc-pre-202402-si730-wx53\OOPSample\OOPSample\obj\Debug\net8.0\ref\OOPSample.dll
